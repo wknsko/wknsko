@@ -4,7 +4,7 @@
 - :white_check_mark: was in QA for two years, now back to web developing <br />
 - :hearts: hard into Vue.js but insterested with any JS framework
 - :two_men_holding_hands: HTML & CSS are my boys 
-- :school: learning some Back End moves(and learning to use Typescript on every project)
+- :school: learning some Back End moves and working on improving my skills
 - :classical_building: trying to educate myself every day
 - :rocket: open for job opportunities, ready to work on more meaningful projects
 
