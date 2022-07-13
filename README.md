@@ -12,3 +12,6 @@
 <a href="https://wknsko.github.io/" target="_blank">my potfolio</a> <br/>
 <a href="https://www.linkedin.com/in/anastasiyakono/" target="_blank">my linkedin</a> <br />
 my work-email: wknsko@gmail.com
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wknsko&hide=javascript,css,scss,html&theme=tokyonight)
+
