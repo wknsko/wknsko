@@ -1,4 +1,5 @@
 # Hi :wave:
+*new profile*
 
 - :hammer_and_pick: got most of experience in making landing pages and templates <br />
 - :white_check_mark: was in QA for two years, now back to web developing <br />
