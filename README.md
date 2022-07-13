@@ -2,7 +2,7 @@
 
 - :hammer_and_pick: got most of experience in making landing pages and templates <br />
 - :white_check_mark: was in QA for two years, now back to web developing <br />
-- :hearts: hard into Vue.js but insterested with any JS framework
+- :hearts: hard into Vue.js but insterested in any JS framework
 - :two_men_holding_hands: HTML & CSS are my boys 
 - :school: learning some Back End moves and working on improving my skills
 - :classical_building: trying to educate myself every day
