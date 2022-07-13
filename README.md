@@ -13,5 +13,5 @@
 <a href="https://www.linkedin.com/in/anastasiyakono/" target="_blank">my linkedin</a> <br />
 my work-email: wknsko@gmail.com
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wknsko&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wknsko&theme=swift)
 
